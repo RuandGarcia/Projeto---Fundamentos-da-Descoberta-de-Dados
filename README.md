@@ -4,7 +4,7 @@
 
 Neste projeto, trabalhamos com uma base de dados de produtos de um supermercado no Chile. O objetivo principal foi explorar os dados, realizar análises estatísticas e gerar visualizações interativas que facilitam a compreensão das informações contidas na base. Através de diferentes técnicas de análise de dados, buscamos identificar padrões, insights e tendências que podem ser relevantes para a estratégia comercial do supermercado.
 
-OBS :*NÃO CONSEGUI TRAZER OS GRÁFICOS DIRETO DO JUPYTER, MAS, TROUXE 3 IMAGEM DOS GRÁFICOS QUE FORAM FEITO NESSE PROJETO!!*
+OBS :*NÃO CONSEGUI TRAZER OS GRÁFICOS DIRETO DO JUPYTER, MAS, TROUXE AS IMAGEM DOS GRÁFICOS QUE FORAM FEITO NESSE PROJETO!!*
 
 ## Estrutura do Dataset
 
